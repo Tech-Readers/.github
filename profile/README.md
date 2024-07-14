@@ -43,33 +43,33 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
   
   O objetivo principal do desenvolvimento dessa plataforma é criar um ambiente digital que facilite a troca de livros entre leitores, promovendo o compartilhamento de recursos literários e a interação social dentro da comunidade de leitores. Especificamente, a plataforma visa:
 
-1. Facilitar a Troca de Livros:
+**1. Facilitar a Troca de Livros:**
 
-Permitir que os usuários listem seus livros disponíveis para troca e busquem por títulos desejados, simplificando o processo de encontrar outros leitores interessados em realizar trocas.
+- Permitir que os usuários listem seus livros disponíveis para troca e busquem por títulos desejados, simplificando o processo de encontrar outros leitores interessados em realizar trocas.
 
-2. Promover a Leitura e Compartilhamento:
+**2. Promover a Leitura e Compartilhamento:**
 
-Incentivar a leitura e o compartilhamento de livros, garantindo que os recursos literários sejam utilizados de maneira eficiente e alcançando um público mais amplo.
+- Incentivar a leitura e o compartilhamento de livros, garantindo que os recursos literários sejam utilizados de maneira eficiente e alcançando um público mais amplo.
 
-3. Construir uma Comunidade de Leitores:
+**3. Construir uma Comunidade de Leitores:**
 
-Criar um espaço onde leitores possam interagir, compartilhar experiências literárias e formar conexões significativas com outros apaixonados por leitura.
+- Criar um espaço onde leitores possam interagir, compartilhar experiências literárias e formar conexões significativas com outros apaixonados por leitura.
 
-4. Aumentar a Confiança e Segurança nas Trocas:
+**4. Aumentar a Confiança e Segurança nas Trocas:**
 
-Implementar sistemas de avaliação e reputação para aumentar a confiança entre os usuários, garantindo que as trocas sejam realizadas de forma segura e transparente.
+- Implementar sistemas de avaliação e reputação para aumentar a confiança entre os usuários, garantindo que as trocas sejam realizadas de forma segura e transparente.
 
-5. Reduzir o Acúmulo de Livros Parados:
+**5. Reduzir o Acúmulo de Livros Parados:**
 
-Oferecer uma solução para o problema de acúmulo de livros parados nas prateleiras, permitindo que livros que já foram lidos por um usuário possam trazer alegria e conhecimento a outros.
+- Oferecer uma solução para o problema de acúmulo de livros parados nas prateleiras, permitindo que livros que já foram lidos por um usuário possam trazer alegria e conhecimento a outros.
 
-6. Melhorar a Logística de Trocas:
+**6. Melhorar a Logística de Trocas:**
 
-Proporcionar ferramentas para organizar e coordenar a logística das trocas, reduzindo a complexidade e aumentando a eficiência do processo.
+- Proporcionar ferramentas para organizar e coordenar a logística das trocas, reduzindo a complexidade e aumentando a eficiência do processo.
 
-7. Oferecer uma Alternativa aos Métodos Informais:
+**7. Oferecer uma Alternativa aos Métodos Informais:**
 
-Substituir métodos informais e ineficazes de troca de livros, como mensagens esporádicas em grupos de redes sociais, por uma plataforma dedicada e bem projetada.
+- Substituir métodos informais e ineficazes de troca de livros, como mensagens esporádicas em grupos de redes sociais, por uma plataforma dedicada e bem projetada.
 </p>
 
 ## Funcionalidades
