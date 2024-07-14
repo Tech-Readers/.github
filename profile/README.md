@@ -17,6 +17,8 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
+:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto)
+
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
@@ -33,6 +35,41 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 <p align="justify">
   Descrição breve do projeto compondo um paragrafo ou dois. 
+</p>
+
+## Objetivos do projeto 
+
+<p align="justify">
+  
+  O objetivo principal do desenvolvimento dessa plataforma é criar um ambiente digital que facilite a troca de livros entre leitores, promovendo o compartilhamento de recursos literários e a interação social dentro da comunidade de leitores. Especificamente, a plataforma visa:
+
+Facilitar a Troca de Livros:
+
+Permitir que os usuários listem seus livros disponíveis para troca e busquem por títulos desejados, simplificando o processo de encontrar outros leitores interessados em realizar trocas.
+
+Promover a Leitura e Compartilhamento:
+
+Incentivar a leitura e o compartilhamento de livros, garantindo que os recursos literários sejam utilizados de maneira eficiente e alcançando um público mais amplo.
+
+Construir uma Comunidade de Leitores:
+
+Criar um espaço onde leitores possam interagir, compartilhar experiências literárias e formar conexões significativas com outros apaixonados por leitura.
+
+Aumentar a Confiança e Segurança nas Trocas:
+
+Implementar sistemas de avaliação e reputação para aumentar a confiança entre os usuários, garantindo que as trocas sejam realizadas de forma segura e transparente.
+
+Reduzir o Acúmulo de Livros Parados:
+
+Oferecer uma solução para o problema de acúmulo de livros parados nas prateleiras, permitindo que livros que já foram lidos por um usuário possam trazer alegria e conhecimento a outros.
+
+Melhorar a Logística de Trocas:
+
+Proporcionar ferramentas para organizar e coordenar a logística das trocas, reduzindo a complexidade e aumentando a eficiência do processo.
+
+Oferecer uma Alternativa aos Métodos Informais:
+
+Substituir métodos informais e ineficazes de troca de livros, como mensagens esporádicas em grupos de redes sociais, por uma plataforma dedicada e bem projetada.
 </p>
 
 ## Funcionalidades
