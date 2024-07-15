@@ -17,7 +17,7 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-:dart:)
+:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
