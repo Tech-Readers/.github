@@ -1,9 +1,9 @@
 <h1>Conectando Leitores</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
-  <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=orange&style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=blue&style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=61dafb&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=e34f26&style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=1572b6&style=for-the-badge&logo=css3"/>
   <img src="http://img.shields.io/static/v1?label=javascript&message=ES6&color=f7df1e&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=Node&message=20.10.0&color=5fa04e&style=for-the-badge&logo=nodedotjs"/>
   <img src="http://img.shields.io/static/v1?label=PostgreSQL&message=16&color=4169e1&style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/>
