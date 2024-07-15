@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
   <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=orange&style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=blue&style=for-the-badge&logo=css"/>
+  <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=blue&style=for-the-badge&logo=css3"/>
   <img src="http://img.shields.io/static/v1?label=Node&message=20.10.0&color=green&style=for-the-badge&logo=nodedotjs"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
