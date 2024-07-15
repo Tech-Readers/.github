@@ -17,7 +17,7 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto)
+:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-:dart:)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
@@ -37,7 +37,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
   Descrição breve do projeto compondo um paragrafo ou dois. 
 </p>
 
-## Objetivos do projeto   🎯
+## Objetivos do projeto :dart:
 
 <p align="justify">
   
