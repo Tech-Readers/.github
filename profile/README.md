@@ -24,7 +24,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos-gear)
 
 :small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books)
 
