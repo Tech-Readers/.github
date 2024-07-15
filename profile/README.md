@@ -28,7 +28,7 @@
 
 :small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books)
 
-:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes-octocat)
+:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
 ... 
 
