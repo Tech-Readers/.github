@@ -22,13 +22,13 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-writing_hand)
+:small_blue_diamond: [Descrição do projeto :heavy_check_mark:](#descrição-do-projeto-writing_hand)
 
-:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart)
+:small_blue_diamond: [Objetivos do projeto :heavy_check_mark:](#objetivos-do-projeto-dart)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades-video_game)
+:small_blue_diamond: [Funcionalidades :warning:](#funcionalidades-video_game)
 
-:small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database)
+:small_blue_diamond: [Banco de dados :warning:](/../../../../Tech-Readers/database)
 
 :small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books-gear)
 
