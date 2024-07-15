@@ -1,7 +1,7 @@
 <h1>Conectando Leitores</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=18.2.0 framework&color=61dafb&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=react&message=18.2.0&color=61dafb&style=for-the-badge&logo=REACT"/>
   <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=e34f26&style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=1572b6&style=for-the-badge&logo=css3"/>
   <img src="http://img.shields.io/static/v1?label=javascript&message=ES6&color=f7df1e&style=for-the-badge&logo=javascript"/>
