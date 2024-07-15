@@ -26,7 +26,9 @@
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books)
+
+:small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes-octocat)
 
 ... 
 
@@ -100,7 +102,7 @@
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
+
 
 ...
 
