@@ -42,7 +42,7 @@
 ## Descrição do projeto :writing_hand:
 
 <p align="justify">
-  Trata-se de uma plataforma em ambiente digital que facilite a troca de livros entre leitores, promovendo o compartilhamento de recursos literários e a interação social dentro da comunidade de leitores.
+  Trata-se de uma aplicação online que facilite a troca de livros entre leitores, promovendo o compartilhamento de recursos literários e a interação social dentro da comunidade de leitores.
 </p>
 
 ## Objetivos do projeto :dart:
