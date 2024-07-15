@@ -22,9 +22,9 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-writing_hand) :heavy_check_mark:
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-writing_hand) :warning:
 
-:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart) :heavy_check_mark:
+:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart) :warning:
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game) :warning:
 
@@ -77,26 +77,26 @@
 
 ## Funcionalidades :video_game:
 
-❌ **Cadastro de Usuários:** 
+**Cadastro de Usuários:** :warning:
   1. Permitir que os usuários se cadastrem na plataforma com informações básicas (nome, email, senha, telefone, endereço).
 
-❌ **Gerenciamento de Livros:** 
+**Gerenciamento de Livros:** :warning:
   1. Permitir que os usuários adicionem livros à sua lista de livros disponíveis para troca, incluindo informações como título, autor, gênero, e condição do livro.
   2. Permitir que os usuários removam ou atualizem informações dos seus livros listados.
 
-❌ **Busca de Livros:** 
+**Busca de Livros:** :warning:
   1. Implementar uma funcionalidade de busca que permita aos usuários procurar livros por título, autor, gênero ou condição.
 
-❌ **Propostas de Troca:** 
+**Propostas de Troca:** :warning:
   1. Permitir que os usuários enviem propostas de troca para outros usuários, especificando quais livros estão oferecendo e quais desejam receber.
 
-❌ **Histórico de Trocas:**  
+**Histórico de Trocas:** :warning:
   1. Registrar todas as trocas realizadas para manter um histórico que pode ser visualizado pelos usuários.
 
-❌ **Sistema de Avaliação e Reputação:**  
+**Sistema de Avaliação e Reputação:** :warning:
   1. Implementar um sistema de avaliação onde os usuários possam avaliar suas experiências de troca, contribuindo para a reputação de outros usuários.
 
-❌ **Mensagens:** 
+**Mensagens:** :warning:
   1. Permitir a comunicação direta entre usuários através de mensagens para coordenar detalhes da troca
 
 ... 
