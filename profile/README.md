@@ -97,7 +97,7 @@
 
 ... 
 
-## Pré-requisitos
+## Pré-requisitos :gear:
 
 :warning: [Node](https://nodejs.org/en/download/)
 
