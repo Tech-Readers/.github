@@ -105,7 +105,6 @@
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Prisma](https://www.prisma.io/docs)
 - [Insomnia](https://insomnia.rest/download)
-- [VSCode](https://code.visualstudio.com/download)
 - [Git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
   
