@@ -24,9 +24,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos-gear)
-
-:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books)
+:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books-gear)
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
@@ -97,19 +95,17 @@
 
 ... 
 
-## Pré-requisitos :gear:
-
-:warning: [Node](https://nodejs.org/en/download/)
-
-
-... 
-
-
-## Linguagens, dependencias e libs utilizadas :books:
+## Linguagens, tecnologias, dependências e libs utilizadas :gear: :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-
-
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node](https://nodejs.org/en/download/)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- [Prisma](https://www.prisma.io/docs)
+- [Insomnia](https://insomnia.rest/download)
+- [VSCode](https://code.visualstudio.com/download)
+- [Git](https://git-scm.com/downloads)
+- [GitHub](https://github.com/)
 ...
 
 Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
