@@ -30,6 +30,10 @@
 
 :small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database) :warning:
 
+:small_blue_diamond: [BackEnd](/../../../../Tech-Readers/backend) :x:
+
+:small_blue_diamond: [FrontEnd](/../../../../Tech-Readers/frontend) :x:
+
 :small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books-gear)
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
