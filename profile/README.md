@@ -35,14 +35,12 @@
 ## Descrição do projeto :writing_hand:
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  Trata-se de uma plataforma em ambiente digital que facilite a troca de livros entre leitores, promovendo o compartilhamento de recursos literários e a interação social dentro da comunidade de leitores.
 </p>
 
 ## Objetivos do projeto :dart:
 
 <p align="justify">
-  
-  O objetivo principal do desenvolvimento dessa plataforma é criar um ambiente digital que facilite a troca de livros entre leitores, promovendo o compartilhamento de recursos literários e a interação social dentro da comunidade de leitores. Especificamente, a plataforma visa:
 
 **1. Facilitar a Troca de Livros:**
 
