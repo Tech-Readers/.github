@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=blue&style=for-the-badge&logo=css3"/>
   <img src="http://img.shields.io/static/v1?label=javascript&message=ES6&color=yellow&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=Node&message=20.10.0&color=green&style=for-the-badge&logo=nodedotjs"/>
-  <img src="http://img.shields.io/static/v1?label=PostgreSQL&message=15&color=blue&style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/>
+  <img src="http://img.shields.io/static/v1?label=PostgreSQL&message=16&color=blue&style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/>
   <img src="http://img.shields.io/static/v1?label=Prisma&message=5.16.2&color=blue&style=for-the-badge&logo=prisma"/>
   <img src="http://img.shields.io/static/v1?label=Insomnia&message=9.3.2&color=purple&style=for-the-badge&logo=insomnia"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
