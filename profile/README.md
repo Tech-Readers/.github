@@ -106,6 +106,7 @@
 - [VSCode](https://code.visualstudio.com/download)
 - [Git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
+  
 ...
 
 Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
