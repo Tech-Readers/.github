@@ -37,7 +37,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
   Descrição breve do projeto compondo um paragrafo ou dois. 
 </p>
 
-## Objetivos do projeto 
+## 🎯 Objetivos do projeto 
 
 <p align="justify">
   
