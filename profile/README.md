@@ -22,7 +22,7 @@
 
 :small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#funcionalidades-video_game)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -71,7 +71,7 @@
 - Substituir métodos informais e ineficazes de troca de livros, como mensagens esporádicas em grupos de redes sociais, por uma plataforma dedicada e bem projetada.
 </p>
 
-## Funcionalidades
+## Funcionalidades :video_game:
 
 ❌ **Cadastro de Usuários:** 
   1. Permitir que os usuários se cadastrem na plataforma com informações básicas (nome, email, senha, telefone, endereço).
