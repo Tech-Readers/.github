@@ -14,7 +14,7 @@
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: ❌ (concluido, em desenvolvimento, não iniciada etc)
+> Status do Projeto: :heavy_check_mark: (concluido) | :warning: (em desenvolvimento) | :x: (não iniciada)
 
 ### Tópicos 
 
