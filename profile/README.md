@@ -74,13 +74,19 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Cadastro de Usuários 
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Gerenciamento de Livros 
 
-:heavy_check_mark: Funcionalidade 3  
+:heavy_check_mark: Busca de Livros 
 
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Propostas de Troca  
+
+:heavy_check_mark: Histórico de Trocas  
+
+:heavy_check_mark: Sistema de Avaliação e Reputação  
+
+:heavy_check_mark: Mensagens 
 
 ## Layout ou Deploy da Aplicação :dash:
 
