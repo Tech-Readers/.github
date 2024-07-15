@@ -18,7 +18,7 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-writing-hand)
 
 :small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart)
 
@@ -32,7 +32,7 @@
 
 ... 
 
-## Descrição do projeto 
+## Descrição do projeto :writing_hand:
 
 <p align="justify">
   Descrição breve do projeto compondo um paragrafo ou dois. 
