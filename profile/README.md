@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=1572b6&style=for-the-badge&logo=css3"/>
   <img src="http://img.shields.io/static/v1?label=javascript&message=ES6&color=f7df1e&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=Node&message=20.10.0&color=5fa04e&style=for-the-badge&logo=nodedotjs"/>
+  <img src="http://img.shields.io/static/v1?label=Draw.io&message=24.6.4&color=f08705&style=for-the-badge&logo=diagramsdotnet"/>
+  <img src="http://img.shields.io/static/v1?label=Workbench MySQL&message=8.0.38&color=4479a1&style=for-the-badge&logo=mysql&logoColor=f5f5f5"/>
   <img src="http://img.shields.io/static/v1?label=PostgreSQL&message=16&color=4169e1&style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/>
   <img src="http://img.shields.io/static/v1?label=Prisma&message=5.16.2&color=2d3748&style=for-the-badge&logo=prisma"/>
   <img src="http://img.shields.io/static/v1?label=Insomnia&message=9.3.2&color=4000bf&style=for-the-badge&logo=insomnia"/>
@@ -103,11 +105,13 @@
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node](https://nodejs.org/en/download/)
 - [PostgreSQL](https://www.postgresql.org/download/)
+- [Workbench MySQL](https://dev.mysql.com/downloads/workbench/)
+- [Draw.io](https://www.drawio.com/)
 - [Prisma](https://www.prisma.io/docs)
 - [Insomnia](https://insomnia.rest/download)
 - [Git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
-  
+
 ...
 
 ## Desenvolvedores/Contribuintes :octocat:
