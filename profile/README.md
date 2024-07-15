@@ -124,7 +124,7 @@
 
 Time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) |  [<img src="https://avatars2.githubusercontent.com/u/" width=115><br><sub>Tiago Lima</sub>](https://github.com/) |  [<img src="https://avatars2.githubusercontent.com/u/" width=115><br><sub>Cleisson Silva</sub>](https://github.com) | [<img src="https://avatars2.githubusercontent.com/u/" width=115><br><sub>Ronielson Braga</sub>](https://github.com) | [<img src="https://avatars2.githubusercontent.com/u/" width=115><br><sub>Francini Ávila</sub>](https://github.com) |
+| [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/126975704?v=4" width=115><br><sub>Cleisson Silva</sub>](https://github.com/Cleissos) | [<img src="https://avatars2.githubusercontent.com/u/" width=115><br><sub>Tiago Lima</sub>](https://github.com/) |  [<img src="https://avatars2.githubusercontent.com/u/" width=115><br><sub>Ronielson Braga</sub>](https://github.com) | [<img src="https://avatars2.githubusercontent.com/u/" width=115><br><sub>Francini Ávila</sub>](https://github.com) |
 | :---: | :---: | :---: | :---: | :---:
 
 
