@@ -28,7 +28,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game)
 
-:small_blue_diamond: [Banco de dados](database)
+:small_blue_diamond: [Banco de dados](./database)
 
 :small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books-gear)
 
