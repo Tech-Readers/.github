@@ -97,12 +97,12 @@
      - Notificações sobre novas solicitações de troca.
 
 **Logística de Troca:** :warning:
-  1. Permitir Definir de local, data e horário para troca presencial.
+  1. Permitir definir o local, data e horário para troca presencial.
   2. Possibilitar envio pelos correios, com endereço de envio.
 
 **Sistema de Notificações:** :warning:
   1. Notificações sobre interesse em trocas.
-  2. Alertas sobre datas e locais de encontros.
+  2. Alertas sobre datas, horários e locais de encontros.
 
 **Histórico de Trocas:** :warning:
   1. Registrar todas as trocas realizadas para manter um histórico que pode ser visualizado pelos usuários.
