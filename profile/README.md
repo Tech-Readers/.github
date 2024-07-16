@@ -99,9 +99,6 @@
 **Sistema de Avaliação e Reputação:** :warning:
   1. Implementar um sistema de avaliação onde os usuários possam avaliar suas experiências de troca, contribuindo para a reputação de outros usuários.
 
-**Mensagens:** :warning:
-  1. Permitir a comunicação direta entre usuários através de mensagens para coordenar detalhes da troca
-
 ... 
 
 ## Linguagens, tecnologias, dependências e libs utilizadas :gear: :books:
