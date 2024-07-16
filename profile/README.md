@@ -90,8 +90,19 @@
 **Busca de Livros:** :warning:
   1. Implementar uma funcionalidade de busca que permita aos usuários procurar livros por título, autor, gênero ou condição.
 
-**Propostas de Troca:** :warning:
-  1. Permitir que os usuários enviem propostas de troca para outros usuários, especificando quais livros estão oferecendo e quais desejam receber.
+**Gestão de Trocas:** :warning:
+  1. Permitir que os usuários enviem propostas de troca para outros usuários, especificando quais livros estão oferecendo e quais desejam receber:  
+    - Solicitação de troca de livros entre usuários.
+    - Aceitação ou rejeição de solicitações de troca.
+    - Notificações sobre novas solicitações de troca.
+
+**Logística de Troca:** :warning:
+  1. Permitir Definir de local, data e horário para troca presencial.
+  2. Possibilitar envio pelos correios, com endereço de envio.
+
+**Sistema de Notificações:** :warning:
+  1. Notificações sobre interesse em trocas.
+  2. Alertas sobre datas e locais de encontros.
 
 **Histórico de Trocas:** :warning:
   1. Registrar todas as trocas realizadas para manter um histórico que pode ser visualizado pelos usuários.
