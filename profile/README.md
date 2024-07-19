@@ -87,7 +87,7 @@
   1. Permitir que os usuários adicionem, removam ou atualizem informações de seus livros disponíveis para troca.
 
 **Busca de Anúncios:** :warning:
-  1. Implementar uma funcionalidade de busca que permita aos usuários procurar anúncios por título, autor e gênero dos livros.
+  1. Possibilitar busca que permita aos usuários procurar anúncios por título, autor e gênero dos livros.
 
 **Gestão de Trocas:** :warning:
   1. Permitir que os usuários enviem propostas de troca para outros usuários com base nos anúncios, especificando quais livros estão oferecendo e quais desejam receber.
@@ -96,7 +96,7 @@
   1. Registrar todas as trocas realizadas para manter um histórico que pode ser visualizado pelos usuários.
 
 **Sistema de Avaliação e Reputação:** :warning:
-  1. Implementar um sistema de avaliação onde os usuários possam avaliar suas experiências de troca, contribuindo para a reputação de outros usuários.
+  1. Possibilitar um sistema de avaliação onde os usuários possam avaliar suas experiências de troca, contribuindo para a reputação de outros usuários.
 
 **Mensagens:** :warning:
   1. Permitir a comunicação direta entre usuários através de mensagens para coordenar detalhes da troca.
