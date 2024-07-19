@@ -83,26 +83,14 @@
 **Cadastro de Usuários:** :warning:
   1. Permitir que os usuários se cadastrem na plataforma com informações básicas (nome, email, senha, telefone, endereço).
 
-**Gerenciamento de Livros:** :warning:
-  1. Permitir que os usuários adicionem livros à sua lista de livros disponíveis para troca, incluindo informações como título, autor, gênero, e condição do livro.
-  2. Permitir que os usuários removam ou atualizem informações dos seus livros listados.
+**Gerenciamento de Anúncios:** :warning:
+  1. Permitir que os usuários adicionem, removam ou atualizem informações de seus livros disponíveis para troca.
 
-**Busca de Livros:** :warning:
-  1. Implementar uma funcionalidade de busca que permita aos usuários procurar livros por título, autor, gênero ou condição.
+**Busca de Anúncios:** :warning:
+  1. Implementar uma funcionalidade de busca que permita aos usuários procurar anúncios por título, autor e gênero dos livros.
 
 **Gestão de Trocas:** :warning:
-  1. Permitir que os usuários enviem propostas de troca para outros usuários, especificando quais livros estão oferecendo e quais desejam receber:
-     - Solicitação de troca de livros entre usuários.
-     - Aceitação ou rejeição de solicitações de troca.
-     - Notificações sobre novas solicitações de troca.
-
-**Logística de Troca:** :warning:
-  1. Permitir definir o local, data e horário para troca presencial.
-  2. Possibilitar envio pelos correios, com endereço de envio.
-
-**Sistema de Notificações:** :warning:
-  1. Notificações sobre interesse em trocas.
-  2. Alertas sobre datas, horários e locais de encontros.
+  1. Permitir que os usuários enviem propostas de troca para outros usuários, especificando quais livros estão oferecendo e quais desejam receber.
 
 **Histórico de Trocas:** :warning:
   1. Registrar todas as trocas realizadas para manter um histórico que pode ser visualizado pelos usuários.
