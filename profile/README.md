@@ -105,7 +105,8 @@
 ## Casos de Uso :video_game:
 
 **Diagrama de Caso de USO (UC) da Aplicação Web para Troca de Livros:**
-<img src="/caso_uso.jpg">
+
+<img src="caso_uso.jpg">
 
 
 ... 
