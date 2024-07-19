@@ -101,6 +101,13 @@
 **Mensagens:** :warning:
   1. Permitir a comunicação direta entre usuários através de mensagens para coordenar detalhes da troca.
 
+
+## Casos de Uso :video_game:
+
+**Diagrama de Caso de USO (UC) da Aplicação Web para Troca de Livros:**
+<img src="/caso_uso.jpg">
+
+
 ... 
 
 ## Linguagens, tecnologias, dependências e libs utilizadas :gear: :books:
