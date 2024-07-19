@@ -27,6 +27,8 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game) :warning:
 
+:small_blue_diamond: [Casos de Uso](#casos-de-uso-video_game) :warning:
+
 :small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database) :warning:
 
 :small_blue_diamond: [BackEnd](/../../../../Tech-Readers/backend) :x:
@@ -44,6 +46,7 @@
 <p align="justify">
   Trata-se de uma aplicação web que facilite a troca de livros entre leitores, promovendo o compartilhamento de recursos literários e a interação social dentro da comunidade de leitores.
 </p>
+
 
 ## Objetivos do projeto :dart:
 
@@ -78,6 +81,7 @@
 - Substituir métodos informais e ineficazes de troca de livros, como mensagens esporádicas em grupos de redes sociais, por uma plataforma dedicada e bem projetada.
 </p>
 
+
 ## Funcionalidades :video_game:
 
 **Cadastro de Usuários:** :warning:
@@ -102,12 +106,11 @@
   1. Permitir a comunicação direta entre usuários através de mensagens para coordenar detalhes da troca.
 
 
-## Casos de Uso :video_game:
+## Casos de Uso:video_game:
 
 **Diagrama de Caso de USO (UC) da Aplicação Web para Troca de Livros:**
 
 <img src="diagrama_caso_uso.jpg">
-
 
 ... 
 
