@@ -35,7 +35,7 @@
 
 :small_blue_diamond: [FrontEnd](/../../../../Tech-Readers/frontend) :x:
 
-:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-books-gear)
+:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-tools-gear-books)
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
@@ -114,7 +114,7 @@
 
 ... 
 
-## Linguagens, tecnologias, dependências e libs utilizadas :gear: :books:
+## Linguagens, tecnologias, dependências e libs utilizadas :tools: :gear: :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
