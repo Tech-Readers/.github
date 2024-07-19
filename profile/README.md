@@ -27,7 +27,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game) :warning:
 
-:small_blue_diamond: [Casos de Uso](#casos-de-uso-video_game) :warning:
+:small_blue_diamond: [Casos de Uso](#casos-de-uso-technologist) :warning:
 
 :small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database) :warning:
 
@@ -106,7 +106,7 @@
   1. Permitir a comunicação direta entre usuários através de mensagens para coordenar detalhes da troca.
 
 
-## Casos de Uso :video_game:
+## Casos de Uso :technologist:
 
 **Diagrama de Caso de USO (UC) da Aplicação Web para Troca de Livros:**
 
