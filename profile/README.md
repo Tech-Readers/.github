@@ -35,7 +35,7 @@
 
 :small_blue_diamond: [FrontEnd](/../../../../Tech-Readers/frontend) :x:
 
-:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-hammer_and_wrench-gear-books)
+:small_blue_diamond: [Linguagens, tecnologias, dependências e libs utilizadas](#linguagens-tecnologias-dependências-e-libs-utilizadas-hammer_and_wrench-gear-books)
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
