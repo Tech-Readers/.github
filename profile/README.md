@@ -21,15 +21,15 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-writing_hand) :warning:
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-writing_hand) :heavy_check_mark:
 
-:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart) :warning:
+:small_blue_diamond: [Objetivos do projeto](#objetivos-do-projeto-dart) :heavy_check_mark:
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-video_game) :warning:
 
-:small_blue_diamond: [Casos de Uso](#casos-de-uso-technologist) :warning:
+:small_blue_diamond: [Casos de Uso](#casos-de-uso-technologist) :heavy_check_mark:
 
-:small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database) :warning:
+:small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database) :heavy_check_mark:
 
 :small_blue_diamond: [BackEnd](/../../../../Tech-Readers/backend) :x:
 
