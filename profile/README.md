@@ -106,7 +106,7 @@
 
 **Diagrama de Caso de USO (UC) da Aplicação Web para Troca de Livros:**
 
-<img src="caso_uso.jpg">
+<img src="diagrama_caso_uso.jpg">
 
 
 ... 
