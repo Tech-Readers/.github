@@ -31,7 +31,7 @@
 
 :small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database) :heavy_check_mark:
 
-:small_blue_diamond: [BackEnd](/../../../../Tech-Readers/backend) :x:
+:small_blue_diamond: [BackEnd](/../../../../Tech-Readers/backend) :warning:
 
 :small_blue_diamond: [FrontEnd](/../../../../Tech-Readers/frontend) :x:
 
