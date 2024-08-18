@@ -33,7 +33,7 @@
 
 :small_blue_diamond: [BackEnd](/../../../../Tech-Readers/backend) :heavy_check_mark:
 
-:small_blue_diamond: [FrontEnd](/../../../../Tech-Readers/frontend) :x:
+:small_blue_diamond: [FrontEnd](/../../../../Tech-Readers/frontend) :warning:
 
 :small_blue_diamond: [Linguagens, tecnologias, dependências e libs utilizadas](#linguagens-tecnologias-dependências-e-libs-utilizadas-hammer_and_wrench-gear-books)
 
