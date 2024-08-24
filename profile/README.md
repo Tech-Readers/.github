@@ -125,7 +125,7 @@
 ... 
 
 
-## Apresentação Overview do Projeto:bar_chart:
+## Apresentação Overview do Projeto :bar_chart:
 
 - [Apresentação](https://app.presentations.ai/view/Z5WGWD)
 
