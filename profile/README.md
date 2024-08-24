@@ -37,6 +37,8 @@
 
 :small_blue_diamond: [Casos de Uso](#casos-de-uso-technologist) :heavy_check_mark:
 
+:small_blue_diamond: [Apresentação Overview do Projeto](#apresentação-overview-do-projeto-bar_chart) :heavy_check_mark:
+
 :small_blue_diamond: [Banco de dados](/../../../../Tech-Readers/database) :heavy_check_mark:
 
 :small_blue_diamond: [BackEnd](/../../../../Tech-Readers/backend) :heavy_check_mark:
@@ -119,6 +121,13 @@
 **Diagrama de Caso de USO (UC) da Aplicação Web para Troca de Livros:**
 
 <img src="diagrama_caso_uso.jpg">
+
+... 
+
+
+## Apresentação Overview do Projeto:bar_chart:
+
+- [Apresentação](https://app.presentations.ai/view/Z5WGWD)
 
 ... 
 
