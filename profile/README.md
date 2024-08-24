@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=react&message=18.2.0&color=61dafb&style=for-the-badge&logo=REACT"/>
   <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=e34f26&style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=1572b6&style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/static/v1?label=Styled-Components&message=6.1.12&color=DB7093&style=for-the-badge&logo=styledcomponents"/>
   <img src="http://img.shields.io/static/v1?label=javascript&message=ES6&color=f7df1e&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=Node&message=20.10.0&color=5fa04e&style=for-the-badge&logo=nodedotjs"/>
   <img src="http://img.shields.io/static/v1?label=Figma&message=16.13.3&color=F24E1E&style=for-the-badge&logo=figma"/>
@@ -124,6 +125,7 @@
 ## Linguagens, tecnologias, dependências e libs utilizadas :hammer_and_wrench: :gear: :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
+- [Styled-Components](https://styled-components.com/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node](https://nodejs.org/en/download/)
 - [Draw.io](https://www.drawio.com/)
