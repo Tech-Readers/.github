@@ -16,7 +16,7 @@
   <img src="http://img.shields.io/static/v1?label=JWT&message=9.0.2&color=000000&style=for-the-badge&logo=jsonwebtokens"/>
   <img src="http://img.shields.io/static/v1?label=DOTENV&message=16.4.5&color=ECD53F&style=for-the-badge&logo=dotenv"/>
   <img src="http://img.shields.io/static/v1?label=Cors&message=2.8.5&color=000000&style=for-the-badge&logo=cors"/>
-  <img src="http://img.shields.io/static/v1?label=Multer&message=1.4.5&color=yellow&style=for-the-badge&logo=multer"/>
+  <img src="http://img.shields.io/static/v1?label=Multer&message=1.4.5&color=EB844E&style=for-the-badge&logo=multer"/>
   <img src="http://img.shields.io/static/v1?label=Axios&message=1.7.5&color=5A29E4&style=for-the-badge&logo=axios"/>
   <img src="http://img.shields.io/static/v1?label=Git&message=2.45.2&color=f05032&style=for-the-badge&logo=git"/>
   <img src="http://img.shields.io/static/v1?label=GitHub&message=2024&color=181717&style=for-the-badge&logo=github"/>
