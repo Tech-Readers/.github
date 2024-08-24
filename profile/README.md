@@ -6,13 +6,17 @@
   <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=1572b6&style=for-the-badge&logo=css3"/>
   <img src="http://img.shields.io/static/v1?label=javascript&message=ES6&color=f7df1e&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=Node&message=20.10.0&color=5fa04e&style=for-the-badge&logo=nodedotjs"/>
+  <img src="http://img.shields.io/static/v1?label=Figma&message=16.13.3&color=F24E1E&style=for-the-badge&logo=figma"/>
   <img src="http://img.shields.io/static/v1?label=Draw.io&message=24.6.4&color=f08705&style=for-the-badge&logo=diagramsdotnet"/>
   <img src="http://img.shields.io/static/v1?label=Workbench MySQL&message=8.0.38&color=4479a1&style=for-the-badge&logo=mysql&logoColor=f5f5f5"/>
   <img src="http://img.shields.io/static/v1?label=PostgreSQL&message=16&color=4169e1&style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/>
   <img src="http://img.shields.io/static/v1?label=Prisma&message=5.16.2&color=2d3748&style=for-the-badge&logo=prisma"/>
   <img src="http://img.shields.io/static/v1?label=Firebase&message=10.13.0&color=DD2C00&style=for-the-badge&logo=firebase"/>
   <img src="http://img.shields.io/static/v1?label=Insomnia&message=9.3.2&color=4000bf&style=for-the-badge&logo=insomnia"/>
-  <img src="http://img.shields.io/static/v1?label=JWT&message=9.0.2&color=000000&style=for-the-badge&logo=jsonwebtoken"/>
+  <img src="http://img.shields.io/static/v1?label=JWT&message=9.0.2&color=000000&style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="http://img.shields.io/static/v1?label=DOTENV&message=16.4.5&color=ECD53F&style=for-the-badge&logo=dotenv"/>
+  <img src="http://img.shields.io/static/v1?label=Cors&message=2.8.5&color=000000&style=for-the-badge&logo=cors"/>
+  <img src="http://img.shields.io/static/v1?label=Multer&message=1.4.5&color=yelolw&style=for-the-badge&logo=multer"/>
   <img src="http://img.shields.io/static/v1?label=Axios&message=1.7.5&color=5A29E4&style=for-the-badge&logo=axios"/>
   <img src="http://img.shields.io/static/v1?label=Git&message=2.45.2&color=f05032&style=for-the-badge&logo=git"/>
   <img src="http://img.shields.io/static/v1?label=GitHub&message=2024&color=181717&style=for-the-badge&logo=github"/>
